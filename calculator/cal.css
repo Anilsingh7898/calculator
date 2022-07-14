@@ -1,0 +1,36 @@
+.cal {height: 60px;
+	margin: auto;
+	font-size: 35px;
+	background-color: lightgrey;
+    border-radius: 21px;
+    border: 5px solid; }
+
+input{
+	height: 60px;
+	margin: auto;
+	font-size: 35px;
+	background-color: lightgrey;
+    border-radius: 21px;
+    border: 5px solid;
+}
+
+
+table{
+	margin: auto;
+}
+
+.btn{
+	
+	font-size: 40px;
+	background-color: lightseagreen;
+	width: 105px;
+	height: 58px;
+	border-radius: 20px;
+
+}
+div{
+	display: inline-block;
+	background-color: #ff99f7;
+	padding: 23px;
+	border-radius: 53px;
+}
